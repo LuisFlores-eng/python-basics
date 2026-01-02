@@ -1,0 +1,31 @@
+
+# Datos de voltajes tomados en laboratorio
+# Rango aproximado: 4 a 8 V
+# Pueden existir errores y diferentes formatos decimales
+
+# BLOQUE 1 (10 mediciones)
+4.21
+5,03
+6.8
+7,12
+4.9
+5,44
+6.02
+7,5
+4,77
+8.0
+
+# --- DIVISOR ENTRE BLOQUES ---
+
+# BLOQUE 2 (10 mediciones)
+
+4,15
+5.6
+6,01
+7.33
+4.88
+5,09
+6.7
+7,02
+4.5
+8,1

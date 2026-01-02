@@ -32,5 +32,5 @@ Cod001={"Nombre": "Ricardo", "Edad": 19, "Carrera":"Programador", "Telefono": 98
 Cod002={"Nombre": "Luis", "Edad": 19, "Carrera":"Programador", "Telefono": 986421356}
 
 Central={"candidato1":Cod001, "candidato2":Cod002}
-Empresa=(Central)
-print(Empresa(0))
+Empresa=(Central[0])
+print(Empresa)
